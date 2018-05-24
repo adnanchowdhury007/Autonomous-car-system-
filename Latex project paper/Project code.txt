@@ -1,0 +1,101 @@
+breed [ leaders leader ]
+breed [ followers follower ]
+
+globals [
+  nest-x nest-y    
+  food-x food-y    
+]
+
+to setup
+  clear-all
+  set-default-shape turtles "bug"
+  set nest-x 10 + min-pxcor                      
+  set nest-y -10
+  set food-x max-pxcor - 10
+  set food-y 40
+  ;; draw the nest in brown by stamping a circular
+  ;; brown turtle
+  ask patch nest-x nest-y [
+    sprout 1 [
+      set color white
+      set shape "square"
+      set size 10
+      stamp
+      die
+    ]
+  ]
+  ;; draw the food in orange by stamping a circular
+  ;; orange turtle
+  ask patch food-x food-y [
+    sprout 1 [
+      set color orange
+      set shape "circle"
+      set size 10
+      stamp
+      die
+    ]
+  ]
+  create-leaders 6
+    [ set color Red ]                            
+  create-followers  (num-ants - 1)
+    [ set color blue                             
+      set heading 180 
+      
+       ]                           
+  ask turtles
+    [ setxy nest-x nest-y                          
+      set size 2 ]
+  ask turtle (max [who] of turtles)
+    [ set color blue                               
+      set pen-size 2
+       ]                                   
+  ask leaders
+    [ set pen-size 2
+        ]                                   
+  reset-ticks
+end
+
+to go
+  if all? turtles [xcor >= food-x]
+    [ stop ]
+   ask leaders                                      
+     [ wiggle leader-wiggle-angle
+       correct-path
+       if (xcor > (food-x - 5 ))                    
+         [ facexy food-x food-y ]
+       if xcor < food-x                             
+         [ fd 0.5 ] ]
+   ask followers
+     [ face turtle (who - 1) 
+       face turtle (who - 2)  
+       face turtle (who - 3) 
+       face turtle (who - 4)  
+       face turtle (who - 5) 
+       face turtle (who - 6)     
+       pd
+       
+       if time-to-start? and (xcor < food-x)        
+         [ fd 0.5 ] ]
+  tick
+end
+
+;; turtle procedure; wiggle a random amount, averaging zero turn
+to wiggle [angle]
+  rt random-float angle
+  lt random-float angle
+end
+
+;; turtle procedure
+to correct-path
+  ifelse heading > 180
+    [ rt 180 ]
+    [ if patch-at 0 -5 = nobody
+        [ rt 100 ]
+     if patch-at 0 5 = nobody
+        [ lt 100 ] ]
+end
+
+
+to-report time-to-start?
+  report ([xcor] of (turtle (who - 1))) > (nest-x + start-delay + random start-delay )
+end

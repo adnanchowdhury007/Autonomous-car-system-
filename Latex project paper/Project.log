@@ -1,0 +1,535 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.4.13)  20 APR 2017 19:54
+entering extended mode
+**./Project.tex
+(Project.tex
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(C:\Users\Digi\AppData\Roaming\MiKTeX\2.9\tex\latex\ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (C:\Users\Digi\AppData\Roaming\MiKTeX\2.9\tex\latex\blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count94
+\c@Blindtext=\count95
+\c@blind@countparstart=\count96
+\blind@countxx=\count97
+\blindtext@numBlindtext=\count98
+\blind@countyy=\count99
+\c@blindlist=\count100
+\c@blindlistlevel=\count101
+\c@blindlist@level=\count102
+\blind@listitem=\count103
+\c@blind@listcount=\count104
+\c@blind@levelcount=\count105
+\blind@mathformula=\count106
+\blind@Mathformula=\count107
+\c@blind@randomcount=\count108
+\c@blind@randommax=\count109
+\c@blind@pangramcount=\count110
+\c@blind@pangrammax=\count111
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count112
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(C:\Users\Digi\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Digi\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen128
+\extrarowheight=\dimen129
+\NC@list=\toks16
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+\everycr=\toks17
+\minrowclearance=\skip46
+) (Project.aux
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+)
+\openout1 = `Project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 354.
+LaTeX Font Info:    ... okay on input line 354.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 354.
+LaTeX Font Info:    ... okay on input line 354.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 354.
+LaTeX Font Info:    ... okay on input line 354.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 354.
+LaTeX Font Info:    ... okay on input line 354.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 354.
+LaTeX Font Info:    ... okay on input line 354.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 354.
+LaTeX Font Info:    ... okay on input line 354.
+
+-- Lines per column: 56 (exact).
+(C:\Users\Digi\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen130
+\scratchbox=\box28
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen131
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Underfull \hbox (badness 1616) in paragraph at lines 419--421
+[]\OT1/ptm/b/it/9 Abstract\OT1/ptm/b/n/9 ---This pa-per presents how an Au-tono
+mous car
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \hbox (badness 1701) in paragraph at lines 452--467
+\OT1/ptm/m/n/10 this path find-ing tech-nique is so work-able that a few
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 452--467
+\OT1/ptm/m/n/10 tech-nol-ogy .our sci-en-tist does only rely on tech-nol-ogy
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 452--467
+\OT1/ptm/m/n/10 tech-nolo-gies for the bet-ter-ment of the peo-ple and the
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 452--467
+\OT1/ptm/m/n/10 A for-mal clas-si-fi-ca-tion sys-tem for au-to-mated cars has
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 452--467
+\OT1/ptm/m/n/10 been pro-posed by the Na-tional High-way Traf-fic Safety
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--467
+
+ []
+
+[1{C:/Users/Digi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 470--473
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--480
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+<Model.png, id=8, 499.11469pt x 387.69844pt>
+File: Model.png Graphic file (type png)
+ <use Model.png>
+Package pdftex.def Info: Model.png used on input line 494.
+(pdftex.def)             Requested size: 199.64232pt x 155.07661pt.
+ [2 <./Model.png>]
+<Capture.png, id=15, 219.06844pt x 123.46124pt>
+File: Capture.png Graphic file (type png)
+ <use Capture.png>
+Package pdftex.def Info: Capture.png used on input line 511.
+(pdftex.def)             Requested size: 197.15976pt x 111.11407pt.
+
+<graph.png, id=16, 447.92343pt x 201.75375pt>
+File: graph.png Graphic file (type png)
+ <use graph.png>
+Package pdftex.def Info: graph.png used on input line 518.
+(pdftex.def)             Requested size: 223.96117pt x 100.87662pt.
+
+Underfull \hbox (badness 2205) in paragraph at lines 527--531
+\OT1/ptm/m/n/10 The sen-sory in-for-ma-tion is then pro-cessed to nav-i-gate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--531
+
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 532--541
+\OT1/ptm/m/n/10 Autonomous car have 8 sen-sors front ,left and right
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--541
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 7415) in paragraph at lines 544--549
+\OT1/ptm/m/n/10 e) Nat-u-ral lan-guage in-ter-faces and vir-tual as-sis-tance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--549
+
+ []
+
+<car.png, id=17, 597.23125pt x 326.21875pt>
+File: car.png Graphic file (type png)
+ <use car.png>
+Package pdftex.def Info: car.png used on input line 553.
+(pdftex.def)             Requested size: 238.88826pt x 130.48518pt.
+
+Underfull \hbox (badness 2735) in paragraph at lines 558--566
+\OT1/ptm/m/n/10 d) Re-duced or non-existent fa-tigue from driv-ing, plus
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 558--566
+\OT1/ptm/m/n/10 e) Sen-sory tech-nol-ogy could po-ten-tially per-ceive the
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 558--566
+\OT1/ptm/m/n/10 g) Au-tonomous ve-hi-cles could bring about a mas-sive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--566
+
+ []
+
+[3 <./Capture.png> <./graph.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 567--569
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--588
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--598
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--601
+
+ []
+
+[4 <./car.png>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
+
+ []
+
+<domi.png, id=27, 501.875pt x 354.32375pt>
+File: domi.png Graphic file (type png)
+ <use domi.png>
+Package pdftex.def Info: domi.png used on input line 608.
+(pdftex.def)             Requested size: 250.93687pt x 177.16144pt.
+
+** WARNING: \IEEEbiography is locked out when in conference mode (line 804).
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5 <./domi.png>] (Project.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3066 strings out of 493333
+ 47526 string characters out of 3139197
+ 124947 words of memory out of 3000000
+ 6575 multiletter control sequences out of 15000+200000
+ 34143 words of font info for 63 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 39i,8n,35p,995b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Project.pdf (5 pages, 352543 bytes).
+PDF statistics:
+ 46 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
